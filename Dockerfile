@@ -9,4 +9,7 @@ ENV LOG_LEVEL=WARNING
 # Keep container from exiting on transient errors
 ENV RETRY_ON_ERROR=true
 
+# Set max retries before giving up
+ENV MAX_RETRY_COUNT=5
+
 ENTRYPOINT ["/entrypoint.sh"]
