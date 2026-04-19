@@ -10,6 +10,8 @@
 **CowAgent** 是基于大模型的超级 AI 助理，能够主动思考和任务规划、操作计算机和外部资源、创造和执行 Skills、拥有长期记忆和知识库并不断成长，比 OpenClaw 更轻量和便捷。CowAgent 支持灵活切换多种模型，能处理文本、语音、图片、文件等多模态消息，可接入微信、飞书、钉钉、企微智能机器人、QQ、企微自建应用、微信公众号、网页中使用，7*24小时运行于你的个人电脑或服务器中。
 
 > **个人备注**：这是我的个人学习用 fork，主要用于研究 Agent 框架的实现原理。如有问题请去上游仓库提 issue。
+>
+> **本地测试记录**：主要在 macOS + DeepSeek 模型下测试，CLI 模式运行稳定，微信接入部分暂未测试。
 
 <p align="center">
   <a href="https://cowagent.ai/">🌐 官网</a> &nbsp;·&nbsp;
@@ -60,6 +62,4 @@
 
 <a href="https://link-ai.tech" target="_blank"><img width="650" src="https://cdn.link-ai.tech/image/link-ai-intro.jpg"></a>
 
-> [LinkAI](https://link-ai.tech/) 是面向企业和个人的一站式 AI 智能体平台，聚合多模态大模型、知识库、技能、工作流等能力，支持一键接入主流平台并管理，支持 SaaS、私有化部署等多种模式，可免部署在线运行[CowAgent 助理](https://link-ai.tech/cowagent/create)。
->
-> LinkAI 目前已在智能客服、私域运营、企业效率助手等场景积累了丰富的 AI 解决方案，在消费、健康
+> [LinkAI](https://link-ai.tech/) 是面向企业和个人的一站式 AI 智能体平台，聚合多模态大模型、知识库、技能、工作流等能力，支持一键接入主流平台并管理，支持 SaaS、私有化部署等多种模式，可免部署在线运行[CowAgent 助理](https://link-ai.tech/cowage
